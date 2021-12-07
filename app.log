@@ -1,0 +1,15 @@
+2021-11-09 22:10:04 INFO  - Start of adding event method
+2021-11-09 22:10:04 INFO  - Error: description: размер должен находиться в диапазоне от 10 до 200
+2021-11-09 22:10:04 INFO  - End of adding event method
+2021-11-09 22:10:10 INFO  - Start of adding event method
+2021-11-09 22:10:10 INFO  - End of adding event method
+2021-11-09 22:10:10 INFO  - Execution of adding event took 14msec.
+2021-11-09 22:10:40 INFO  - Start of deleting review method
+2021-11-09 22:10:40 INFO  - End of deleting review method
+2021-11-09 22:10:40 INFO  - Execution of deleting review took 3msec.
+2021-11-09 22:10:56 INFO  - Start of changing event method
+2021-11-09 22:10:56 INFO  - End of changing event method
+2021-11-09 22:10:56 INFO  - Execution of changing event took 40msec.
+2021-11-09 22:11:06 INFO  - Start of deleting event method
+2021-11-09 22:11:06 INFO  - End of deleting event method
+2021-11-09 22:11:06 INFO  - Execution of deleting event took 3msec.
