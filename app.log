@@ -13,3 +13,9 @@
 2021-11-09 22:11:06 INFO  - Start of deleting event method
 2021-11-09 22:11:06 INFO  - End of deleting event method
 2021-11-09 22:11:06 INFO  - Execution of deleting event took 3msec.
+2021-12-18 12:24:27 INFO  - Start of adding event method
+2021-12-18 12:24:27 INFO  - End of adding event method
+2021-12-18 12:24:27 INFO  - Execution of adding event took 81msec.
+2021-12-18 12:25:20 INFO  - Start of deleting review method
+2021-12-18 12:25:20 INFO  - End of deleting review method
+2021-12-18 12:25:20 INFO  - Execution of deleting review took 13msec.
