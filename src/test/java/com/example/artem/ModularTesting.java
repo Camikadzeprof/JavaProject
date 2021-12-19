@@ -8,11 +8,9 @@ import com.example.artem.service.UsersService;
 import org.hamcrest.CoreMatchers;
 import org.junit.Assert;
 import org.junit.Test;
-import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.runner.RunWith;
 import org.mockito.ArgumentMatchers;
 import org.mockito.Mockito;
-import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
@@ -63,11 +61,11 @@ public class ModularTesting {
     public void addUserFail() {
         Users user = new Users();
 
-        user.setLogin("artem");
+        user.setLogin("Artem");
 
         Mockito.doReturn(new Users())
                 .when(usersRepository)
-                .findByLogin("artem");
+                .findByLogin("Artem");
 
         boolean isUserCreated = usersService.addUser(user);
 
