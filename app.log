@@ -19,3 +19,5 @@
 2021-12-18 12:25:20 INFO  - Start of deleting review method
 2021-12-18 12:25:20 INFO  - End of deleting review method
 2021-12-18 12:25:20 INFO  - Execution of deleting review took 13msec.
+2021-12-20 11:26:15 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=maria03052000@mail.ru
+
