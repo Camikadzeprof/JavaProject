@@ -34,25 +34,6 @@ window.onload = async () => {
         else return;
     };
 
-    // let input = document.getElementsByClassName("input-file")[0];
-    // input.onchange = e => {
-    //     let file = e.target.files[0];
-    //     photoLink = file.name;
-    // }
-    // input.click();
-    // const file_attach = document.getElementById('file_attach');
-    // photoLink = file_attach.files[0];
-    // file_attach.addEventListener("change", async () => {
-    //     const fData = new FormData();
-    //     fData.append("file_attach", file_attach.files[0]);
-    //
-    //     let fetchResponse = await fetch("/upload", {
-    //         method: "POST",
-    //         body: fData
-    //     });
-    //
-    //     return await fetchResponse.text();
-    // });
 }
 
 function logout() {

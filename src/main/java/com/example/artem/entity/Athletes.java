@@ -44,11 +44,4 @@ public class Athletes {
         this.name = name;
     }
 
-//    public List<Events> getEventsSet() {
-//        return eventsSet;
-//    }
-//
-//    public void setEventsSet(Set<Events> eventsSet) {
-//        this.eventsSet = eventsSet;
-//    }
 }

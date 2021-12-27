@@ -64,3 +64,18 @@
 2021-12-26 20:54:29 INFO  - Start of adding event method
 2021-12-26 20:54:29 INFO  - End of adding event method
 2021-12-26 20:54:29 INFO  - Execution of adding event took 3msec.
+2021-12-27 14:01:39 INFO  - Start of deleting review method
+2021-12-27 14:01:39 INFO  - End of deleting review method
+2021-12-27 14:01:39 INFO  - Execution of deleting review took 33msec.
+2021-12-27 14:01:40 INFO  - Start of deleting review method
+2021-12-27 14:01:40 INFO  - End of deleting review method
+2021-12-27 14:01:40 INFO  - Execution of deleting review took 1msec.
+2021-12-27 14:01:51 INFO  - Start of changing event method
+2021-12-27 14:01:51 INFO  - End of changing event method
+2021-12-27 14:01:51 INFO  - Execution of changing event took 37msec.
+2021-12-27 14:02:01 INFO  - Start of deleting event method
+2021-12-27 14:02:01 INFO  - End of deleting event method
+2021-12-27 14:02:01 INFO  - Execution of deleting event took 9msec.
+2021-12-27 14:02:41 INFO  - Start of adding event method
+2021-12-27 14:02:41 INFO  - End of adding event method
+2021-12-27 14:02:41 INFO  - Execution of adding event took 2msec.
