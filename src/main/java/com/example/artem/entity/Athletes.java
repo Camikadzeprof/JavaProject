@@ -20,8 +20,6 @@ public class Athletes {
     @Column(name = "name")
     private String name;
 
-//    @ManyToMany(mappedBy = "athletesSet", cascade = CascadeType.ALL)
-//    Set<Events> eventsSet;
 
     public Athletes() { }
 

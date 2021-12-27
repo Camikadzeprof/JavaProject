@@ -15,8 +15,6 @@ public class Reviews {
     @Column(name = "id", length = 6, nullable = false)
     private long id;
 
-//    @NotBlank
-//    @Size(min=5, max=200)
     @Column(name = "description")
     private String description;
 

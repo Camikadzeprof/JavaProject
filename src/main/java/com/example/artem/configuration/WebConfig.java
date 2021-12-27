@@ -28,7 +28,6 @@ import javax.sql.DataSource;
 @Configuration
 @ComponentScan({"com.example.artem.configuration","com.example.artem"})
 @PropertySource("classpath:application.properties")
-//@EnableWebMvc
 @EntityScan(basePackages = {"com.example.artem.entity"})
 @EnableAutoConfiguration
 @EnableJpaRepositories("com.example.artem.repository")

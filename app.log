@@ -22,3 +22,45 @@
 2021-12-20 11:26:15 INFO  - Error: Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535 Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=maria03052000@mail.ru
 
 2021-12-20 16:22:40 INFO  - Error: login: Invalid login
+2021-12-21 17:37:24 INFO  - Start of deleting event method
+2021-12-21 17:37:24 INFO  - End of deleting event method
+2021-12-21 17:37:24 INFO  - Execution of deleting event took 68msec.
+2021-12-21 18:33:35 INFO  - Start of changing event method
+2021-12-21 18:33:35 INFO  - End of changing event method
+2021-12-21 18:33:35 INFO  - Execution of changing event took 638msec.
+2021-12-21 18:34:07 INFO  - Start of deleting review method
+2021-12-21 18:34:07 INFO  - End of deleting review method
+2021-12-21 18:34:07 INFO  - Execution of deleting review took 14msec.
+2021-12-21 18:34:09 INFO  - Start of deleting review method
+2021-12-21 18:34:09 INFO  - End of deleting review method
+2021-12-21 18:34:09 INFO  - Execution of deleting review took 2msec.
+2021-12-21 18:34:12 INFO  - Start of deleting review method
+2021-12-21 18:34:12 INFO  - End of deleting review method
+2021-12-21 18:34:12 INFO  - Execution of deleting review took 1msec.
+2021-12-21 18:34:29 INFO  - Start of adding event method
+2021-12-21 18:34:29 INFO  - Error: description: размер должен находиться в диапазоне от 10 до 200
+2021-12-21 18:34:29 INFO  - End of adding event method
+2021-12-21 18:34:36 INFO  - Start of adding event method
+2021-12-21 18:34:36 INFO  - Error: description: размер должен находиться в диапазоне от 10 до 200
+2021-12-21 18:34:36 INFO  - End of adding event method
+2021-12-21 18:34:46 INFO  - Start of adding event method
+2021-12-21 18:34:46 INFO  - End of adding event method
+2021-12-21 18:34:46 INFO  - Execution of adding event took 92msec.
+2021-12-21 18:34:57 INFO  - Start of deleting event method
+2021-12-21 18:34:57 INFO  - End of deleting event method
+2021-12-21 18:34:57 INFO  - Execution of deleting event took 2msec.
+2021-12-26 20:52:01 INFO  - Start of changing event method
+2021-12-26 20:52:02 INFO  - End of changing event method
+2021-12-26 20:52:02 INFO  - Execution of changing event took 303msec.
+2021-12-26 20:52:55 INFO  - Start of adding event method
+2021-12-26 20:52:55 INFO  - Error: region: Empty region
+2021-12-26 20:52:55 INFO  - End of adding event method
+2021-12-26 20:53:10 INFO  - Start of adding event method
+2021-12-26 20:53:10 INFO  - End of adding event method
+2021-12-26 20:53:10 INFO  - Execution of adding event took 24msec.
+2021-12-26 20:53:54 INFO  - Start of adding event method
+2021-12-26 20:53:54 INFO  - End of adding event method
+2021-12-26 20:53:54 INFO  - Execution of adding event took 4msec.
+2021-12-26 20:54:29 INFO  - Start of adding event method
+2021-12-26 20:54:29 INFO  - End of adding event method
+2021-12-26 20:54:29 INFO  - Execution of adding event took 3msec.

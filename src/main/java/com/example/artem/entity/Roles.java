@@ -45,11 +45,4 @@ public class Roles {
         this.role = role;
     }
 
-//    public Set<Users> getUsers() {
-//        return users;
-//    }
-//
-//    public void setUsers(Set<Users> users) {
-//        this.users = users;
-//    }
 }
